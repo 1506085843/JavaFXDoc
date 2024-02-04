@@ -1,0 +1,33 @@
+{
+    "language" : "zh-hans",
+    "structure": {
+        "readme": "README.md"
+    },
+    "plugins": [
+        "-lunr",
+		"-sharing",
+        "-search",
+        "search-pro",
+		"sidebar-style",
+		"code",
+		"splitter",
+		"expandable-chapters",
+		"anchor-navigation-ex",
+		"-highlight",
+		"prism", 
+		"popup",
+		"tbfed-pagefooter",
+		"auto-scroll-table"
+    ],
+    "pluginsConfig": {
+		 "sidebar-style": {
+            "title": "JavaFX教程",
+            "author": "西凉"
+        },
+		"tbfed-pagefooter": {
+            "copyright":"本文为西凉原创",
+            "modify_label": "最后更新时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+    }
+}
