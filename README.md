@@ -19,6 +19,10 @@ JavaFX 应用程序可以在不同的操作系统和设备上运行，具有跨�
 如果你想安装 JavaFx 可参考 [JavaFX安装及使用](https://blog.csdn.net/qq_33697094/article/details/126429278)
 
 ## 使用
-本项目文档使用 Markdown 编写，并使用 GitBook 构建。
-你可以下载本项目，然后使用 Typora  或其他支持 Markdown 文档的应用打开进行浏览；
-或者你可以下载本项目后，使用 [GitBook ](https://blog.csdn.net/qq_33697094/article/details/135090645)，然后在浏览器 输入 http://localhost:4000/ 打开进行浏览；
+本项目文档使用 Markdown 编写，并使用 GitBook 构建，你可以通过如下任意一种方式进行阅读：
+
+- 电脑本地安装 jdk 后，在本项目的 releases 发现页面下载 zip 压缩包并解压，进入bin 目录，双击 startup.bat 开始运行。运行成功后，在浏览器打开 http://localhost:8080/book/ 便可阅读文档。
+
+- 下载本项目，然后使用 Typora  或其他支持 Markdown 文档的应用打开进行浏览；
+
+- 下载本项目后，使用 [GitBook ](https://blog.csdn.net/qq_33697094/article/details/135090645) 进行构建项目，然后在浏览器 输入 http://localhost:4000/ 打开进行浏览；
